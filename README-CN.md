@@ -1,13 +1,11 @@
 <div align="right">
-    <img src="https://cdn.liebi.com/resource/logo.png" height="32px" />
+    <a href="https://cloud.liebi.com" style="color:#46B9A3;"><img src="https://cdn.liebi.com/resource/logo.png" height="32px" /></a>
 </div>
 <div align="left" >
-    <a href="https://cloud.liebi.com" style="color:#46B9A3;">
-        <h1>
-            <img src="https://cdn.liebi.com/resource/title.png" height="24px" style="margin-right:12px;"/>
-            EOS 理财合约
-        </h1>
-    </a>
+    <h1>
+        <img src="https://cdn.liebi.com/resource/title.png" height="24px" style="margin-right:12px;"/>
+        EOS 理财合约
+    </h1>
 </div>
 
 
